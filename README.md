@@ -3,6 +3,10 @@
 An AI-powered study companion built with **Python, Streamlit, Google Gemini, LangChain, and FAISS**. It helps students understand concepts, summarize notes, generate quizzes and flashcards, chat with PDFs, plan studies, and track learning progress through an interactive dashboard.
 
 ---
+## 🌐 Live Demo
+
+🔗 **Deployed App:** https://your-app-name.streamlit.app
+
 
 ## ✨ Features
 
