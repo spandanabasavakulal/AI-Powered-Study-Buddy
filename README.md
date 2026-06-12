@@ -5,7 +5,7 @@ An AI-powered study companion built with **Python, Streamlit, Google Gemini, Lan
 ---
 ## 🌐 Live Demo
 
-🔗 **Deployed App:** https://your-app-name.streamlit.app
+🔗 **Deployed App:** https://ai-powered-study-buddy-pmslz7ajcu5gjaekqrgpx4.streamlit.app/
 
 
 ## ✨ Features
